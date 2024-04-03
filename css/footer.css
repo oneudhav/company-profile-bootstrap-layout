@@ -1,0 +1,33 @@
+.footer{
+	padding-top:6.5rem;
+	background-color: #151e2e;
+}
+.footer-title{
+	font-weight: 600;
+    color: #fff;
+    margin-bottom: 2rem;
+}
+.footer-list{
+	list-style-type: none;
+	color:#fff;
+	word-break: break-all;
+}
+.footer-list li{
+	margin-bottom: 15px;
+}
+.footer-list a{
+	color:#bec2ce;
+}
+.footer-list a:hover{
+text-decoration: none;
+color:#fff;
+}
+.footer-location{
+	font-size: 28px;
+    font-weight: 800;
+    color: #de1d3e;
+}
+.footer-bottom{
+	padding:25px 10px;
+	background-color: #1d2831;
+}

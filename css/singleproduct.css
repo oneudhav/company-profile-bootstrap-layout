@@ -1,0 +1,29 @@
+.product-single{
+	padding:40px 0px;
+}
+.single-image{
+	width: 100%;
+	padding-top:30px;
+}
+.single-image img{
+	max-height: 450px;
+}
+.product-content{
+	padding: 65px 30px;
+}
+.product-content h1{
+	margin-bottom:24px;
+}
+.product-brand{
+	    display: inline-block;
+    background: #e4e1e2;
+    padding: 8px;
+    border-radius: 19px;
+    margin-top: 10px;
+    margin-bottom: 27px;
+}
+@media(max-width: 768px){
+	.product-content{
+		padding-left:10px;
+	}
+}

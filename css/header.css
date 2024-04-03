@@ -1,0 +1,30 @@
+.navbar-light .navbar-nav .nav-link{
+	color: rgb(33 65 142);
+    font-weight: 500;
+    padding: 40px 40px 40px 0px;
+    border:none;
+}
+.nav-dropdown{
+	top: 65px;
+    left: auto;
+    right: auto;
+    width: 280px;
+    box-shadow: rgb(0 0 0 / 10%) 0px 0px 20px;
+    border: none;
+}
+.dropdown-item{
+	padding:0.7rem 1.5rem;
+}
+@media(max-width:768px){
+	.navbar-light .navbar-nav .nav-link{
+		padding:10px 0px;
+		border-top:1px solid #1d458e!important;
+	}
+}
+.links {
+    padding: 0px 10px 0px 98px;
+}
+.links a {
+    color: #de1d3e;
+    padding-right: 30px;
+}

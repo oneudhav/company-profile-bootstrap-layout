@@ -1,0 +1,27 @@
+.product-section{
+  padding:40px 0px;
+  background-color: #f5f8fb;
+}
+.product-section .card{
+  border:none;
+}
+.product-link{
+  color:#000;
+}
+.product-link:hover{
+  text-decoration: none;
+  color:#000;
+}
+.product-link h4{
+  margin: 20px 0px;
+    font-size: 18px;
+    font-weight: 400;
+    margin-bottom: 15px;
+}
+.product-link p{
+  font-weight: 300;
+}
+.product-link:hover h4{
+  color:#6385b5;
+}
+@media(max-width: 6)

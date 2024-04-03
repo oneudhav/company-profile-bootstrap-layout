@@ -1,0 +1,28 @@
+@import url('header.css');
+@import url('footer.css');
+@import url('carousel.css');
+@import url('service.css');
+@import url('product.css');
+@import url('about.css');
+@import url('singleproduct.css');
+@import url('contact.css');
+body{
+	font-family: 'Mulish', sans-serif;
+}
+.section-heading{
+	padding-bottom: 40px;
+    color: #6385b5;
+    font-weight: 700;
+    font-size:3em;
+}
+.my-btn{
+	border-radius: 30px;
+	background: #1a5090;
+	color:#fff;
+	margin-top:25px;
+	padding:12px 33px;
+}
+.my-btn:hover{
+	background-color: transparent;
+	color:#225491;
+}
